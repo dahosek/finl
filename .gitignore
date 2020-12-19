@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# build artifacts
+build
+cmake-build-debug
+extern
+.idea
